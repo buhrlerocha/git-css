@@ -67,3 +67,23 @@ margin-top: 0;
 	}
 }
 /* ####### Acá va su código ####### */
+img{
+	height: 170px;
+	width: 170px;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+
+
+#linkeado{
+	border: 3px solid #C8FC98;
+	border-radius: 8px;
+	/*border: solid black 2px;
+	border-radius: 8px;*/
+	width: 176px;
+	height: 176px;
+}
+
+#linkeado:hover {
+	border: 3px solid white;
+}
