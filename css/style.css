@@ -67,3 +67,34 @@ margin-top: 0;
 	}
 }
 /* ####### Acá va su código ####### */
+table,td,th {
+	border: 2px solid black;
+	margin-left: 550px;
+	margin-bottom: 200px;
+	width: 400px;
+}
+a {
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
