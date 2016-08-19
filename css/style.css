@@ -96,3 +96,22 @@ img{
 #linkeado:hover {
 	border: 3px solid white;
 }
+.comando{
+	background:#F8618F;
+	font-size: 16px;
+	color:#1E0A82;
+	font-family:comic sans;
+	width: 700px;
+
+}
+
+.comando li{
+	font-family: comic sans;
+	font-size:25px;
+	color: #7C1EBD;
+}
+
+ol{
+	width: 30px;
+	padding: 30px;
+}
